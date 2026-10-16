@@ -1,0 +1,14 @@
+{
+  "repo": "rightwayhealthcare",
+  "feeds": [
+    {
+      "source": "https://www.rightwayhealthcare.com/resources/blog",
+      "feed_url": "https://www.rightwayhealthcare.com/resources/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
